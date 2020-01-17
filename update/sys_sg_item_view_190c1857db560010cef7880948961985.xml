@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>template_import_log.message-22123,template_import_log.sys_created_by-45539,template_import_log.type-32753,template_import_log.sys_id-7686</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"template_import_log.message","Id":22123},{"Type":"ViewGroup","Margin":{"Top":12},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E2","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${template_import_log.sys_created_by}","Id":45538},{"Type":"Text","Margin":{},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"template_import_log.sys_created_by","Id":45539}],"Id":12260},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E3","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${template_import_log.type}","Id":32752},{"Type":"Text","Margin":{},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"template_import_log.type","Id":32753}],"Id":12261},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${template_import_log.sys_id}","Id":7685},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"template_import_log.sys_id","Id":7686}],"Id":12262}],"studio_card_id":"1e53f49d23412300a8ed7f4fc7bf6540","Id":28090}</item_view_json>
+        <name>Earthqueke Last Year Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 11:42:24</sys_created_on>
+        <sys_id>190c1857db560010cef7880948961985</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Earthqueke Last Year Item View</sys_name>
+        <sys_package display_value="Shopping List" source="x_439117_shopping">b31dc417db160010cef7880948961927</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">b31dc417db160010cef7880948961927</sys_scope>
+        <sys_update_name>sys_sg_item_view_190c1857db560010cef7880948961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-17 14:32:02</sys_updated_on>
+        <table>x_58872_needit_historic_</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>
